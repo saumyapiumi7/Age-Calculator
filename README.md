@@ -22,6 +22,6 @@ This is a simple desktop application built using Python's Tkinter library. It al
 5. Click the Calculate Age button to see your age.
 
 ## Screenshots
-
+![alt text](<Screenshot (243).png>)
 
 
